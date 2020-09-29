@@ -5,5 +5,5 @@
 # }
 
 def happy_birthday(birthday_kids)
-puts "Happy Birthday "
+
 end
