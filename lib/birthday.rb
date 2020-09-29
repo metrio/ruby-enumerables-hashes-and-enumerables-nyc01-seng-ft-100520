@@ -5,8 +5,7 @@
 # }
 
 def happy_birthday(birthday_kids)
-birthday = ""
-birthday_kids.each do |birthday, name|
-  if birthday == 
-
+birthday_kids.each do |kids_name, age|
+puts "Happy Birthday #{kids_name}! You are now #{age} years old!"
+end
 end
