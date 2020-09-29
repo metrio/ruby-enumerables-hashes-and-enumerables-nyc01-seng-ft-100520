@@ -6,5 +6,6 @@
 
 def happy_birthday(birthday_kids)
 birthday = ""
+birthday_kids.
 
 end
