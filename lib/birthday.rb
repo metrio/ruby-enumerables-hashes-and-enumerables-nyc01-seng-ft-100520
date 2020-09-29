@@ -6,6 +6,7 @@
 
 def happy_birthday(birthday_kids)
 birthday = ""
-birthday_kids.each do |
+birthday_kids.each do |birthday, name|
+  if 
 
 end
